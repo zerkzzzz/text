@@ -15,7 +15,7 @@ public class JedisClusterCrossSlotException extends JedisClusterException {
     super(message);
   }
   
-  publid void forTest(){
+  public void forTest(){
   
   }
 }
