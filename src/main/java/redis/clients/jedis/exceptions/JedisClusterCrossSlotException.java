@@ -14,4 +14,9 @@ public class JedisClusterCrossSlotException extends JedisClusterException {
   public JedisClusterCrossSlotException(String message) {
     super(message);
   }
+
+  public void forNumberTest(){
+    int i = 1;
+    int j = 2;
+  }
 }
