@@ -16,7 +16,7 @@ public class JedisClusterCrossSlotException extends JedisClusterException {
   }
 
   public void forNumberTest(){
-    int i = 15555;
-    int j = 15555;
+    int i = 16666;
+    int j = 166666;
   }
 }
